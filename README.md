@@ -9,6 +9,16 @@ Consume these APIs to create a ReactJS based application which will show the hom
 ## UI
 ![Alt text](https://raw.githubusercontent.com/CwBotNet/nobero-fronted-task/main/public/screenshots/task.png)
 
-# admin
+# Admin
+
 ![Alt text](https://raw.githubusercontent.com/CwBotNet/nobero-fronted-task/main/public/screenshots/task2.png)
 
+### testaccount
+###### user : admin 
+###### pass : admin@1234
+
+## Api code
+https://github.com/CwBotNet/webscraper-Api
+
+## scrapy code
+https://github.com/CwBotNet/webScraper
