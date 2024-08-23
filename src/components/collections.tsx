@@ -26,7 +26,7 @@ const ProductCollection = () => {
         </div>
     }
 
-    if (!loading || !products) {
+    if (!loading && !products) {
         return (
             <div className="flex justify-center items-center h-[90vh] w-full">
                 <section className="bg-white">
